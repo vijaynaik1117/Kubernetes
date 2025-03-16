@@ -1,2 +1,0 @@
-# Kubernetes
-Lerarning_Kubernetes
